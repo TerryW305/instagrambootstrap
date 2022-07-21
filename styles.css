@@ -1,0 +1,17 @@
+ margin-left: { 2px;
+    border: 1px solid red;
+    width: 626px;
+}
+
+
+
+.tab-content{
+    font-family: Helvetica, sans-serif;
+    max-width: 50%;
+text-align: justify;
+}
+
+
+.text-dark{
+    text-align: justify;
+} 
